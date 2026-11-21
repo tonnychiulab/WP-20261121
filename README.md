@@ -6,3 +6,4 @@
 
 - [Wappalyzer - Technology profiler 簡介](docs/wappalyzer.md)
 - [Shodan（Chrome 擴充功能）簡介](docs/shodan.md)
+- [YouTube 影片連結清單](docs/youtube-links.md)
