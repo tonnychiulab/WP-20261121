@@ -4,5 +4,5 @@
 
 | # | 影片標題 / 主題 | 連結 | 備註 |
 | :-: | --- | --- | --- |
-| 1 | （我什麼都不知道） | <a href="https://youtu.be/sJTLZ77RVjU" target="_blank" rel="noopener noreferrer">https://youtu.be/sJTLZ77RVjU</a> | 2026-11-21 新增 |
+| 1 | （我什麼都不知道，就算知情、也無可奉告） | <a href="https://youtu.be/sJTLZ77RVjU" target="_blank" rel="noopener noreferrer">https://youtu.be/sJTLZ77RVjU</a> | 2026-11-21 新增 |
 | 2 | （【舊文慢報 EP0】別人上個月就報完了，但你機房的 PHP 升版了嗎？PHP2Shell (CVE-2026-109618 / 109619) 1 分鐘懶人包） | <a href="https://youtu.be/PB5U7bvHBsI" target="_blank" rel="noopener noreferrer">https://youtu.be/PB5U7bvHBsI</a> | 2026-11-21 新增 |
